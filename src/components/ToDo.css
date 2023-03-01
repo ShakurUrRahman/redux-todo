@@ -1,0 +1,58 @@
+.work-box {
+    width: 50vh;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: 4px solid blue;
+}
+
+.caption {
+    font-weight: bolder;
+    font-size: larger;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.input-box {
+    display: flex;
+    justify-content: center;
+    margin-left: 25px;
+    margin-bottom: 10px;
+}
+
+.input-text {
+    font-size: 15px;
+    padding: 5px;
+}
+
+.input-btn {
+    position: relative;
+    right: 12%;
+    margin: 7px 0px;
+}
+
+.task-box {
+    display: flex;
+    justify-content: space-between;
+    background-color: blueviolet;
+    margin: 0 10px;
+    border: 1px solid none;
+    border-radius: 15px;
+    height: 40px;
+}
+
+.delete-btn {
+    margin: 10px 15px;
+}
+
+.task-name {
+    font-size: 15px;
+    font-weight: normal;
+    margin: 10px 20px;
+    color: aliceblue;
+}
+
+.remove-all {
+    text-align: center;
+    margin: 20px 0;
+}
